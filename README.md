@@ -23,7 +23,7 @@ Bu layihə **DevJoint** təcrübə proqramının ilk tapşırığı (**First Tas
 
 | Onboarding Screen | Statistics Screen | Profile Screen |
 | :---: | :---: | :---: |
-| <img src="screenshots/onboarding.jpg" width="220"/> | <img src="screenshots/statistics.jpg" width="220"/> | <img src="screenshots/profile.jpg" width="220"/> |
+| <img src="assets/screenshots/onboarding.jpeg" width="220"/> | <img src="assets/screenshots/profile.jpeg" width="220"/> | <img src="assets/screenshots/editProfile.jpeg" width="220"/> | <img src="assets/screenshots/settings.jpeg" width="220"/> |
 
 
 
@@ -62,6 +62,7 @@ flutter run
 
 
 Müəllif və Təşəkkür (Author & Credits)
+
 Developer: Aydan Əskərova
 
 Program: DevJoint Internship

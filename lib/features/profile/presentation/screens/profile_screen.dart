@@ -55,9 +55,25 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
               ),
-              IconButton(
-                onPressed: () {},
-                icon: const Icon(Icons.notifications_none),
+              Stack(
+                children: [
+                  IconButton(
+                    onPressed: () {},
+                    icon: const Icon(Icons.notifications_none),
+                  ),
+                  Positioned(
+                    top: 8,
+                    right: 8,
+                    child: Container(
+                      width: 8,
+                      height: 8,
+                      decoration: const BoxDecoration(
+                        color: Colors.deepPurple,
+                        shape: BoxShape.circle,
+                      ),
+                    ),
+                  ),
+                ],
               ),
             ],
           ),

@@ -1,0 +1,52 @@
+# 📱 First Task - Onboarding & Analytics App
+
+> **DevJoint Internship Program** çərçivəsində hazırlanmış, istifadəçilərin linklərini saxlamasına, təşkil etməsinə və statistikalarını izləməsinə imkan verən mobil Flutter tətbiqi.
+
+---
+
+## 📌 Layihə Haqqında (About The Task)
+
+Bu layihə **DevJoint** təcrübə proqramının ilk tapşırığı (**First Task**) olaraq hazırlanmışdır. Əsas məqsəd verilmiş UI/UX dizaynını piksel dəqiqliyi ilə koda köçürmək, müasir UI komponentlərindən (Glow/Blur effektləri) istifadə etmək və adaptiv interfeys qurmaqdır.
+
+---
+
+## 🌟 Özəlliklər (Features)
+
+- 🎨 **Müasir UI/UX Dizayn:** Dark Mode konsepsiyası və xüsusi neon glowing (BackdropFilter) effektləri.
+- 📊 **İzlə və Paylaş:** Ziyarət sayı, keçidlər və kolleksiyaların vizual diaqramlarla təqdim olunması.
+- 📐 **Pixel-Perfect & Responsive:** Müxtəlif ekran ölçülərinə (xüsusilə 360x800) tam uyğunlaşdırılmış düzəliş (layout).
+- ⚡ **Yüngül və Donmayan Arxitektura:** Cihaz resurslarını yormayan, optimallaşdırılmış widget strukturu.
+
+---
+
+## 📸 Ekran Görüntüləri (Screenshots)
+
+| Onboarding Screen | Statistics Screen | Profile Screen |
+| :---: | :---: | :---: |
+| <img src="screenshots/onboarding.jpg" width="220"/> | <img src="screenshots/statistics.jpg" width="220"/> | <img src="screenshots/profile.jpg" width="220"/> |
+
+*(Qeyd: Ekran şəkillərini proyektin daxilindəki `screenshots/` qovluğuna yerləşdirərək bura əlavə edə bilərsiniz)*
+
+---
+
+## 🛠️ Texnologiyalar (Tech Stack)
+
+- **Framework:** [Flutter](https://flutter.dev/) (3.x)
+- **Language:** [Dart](https://dart.dev/)
+- **UI Architecture:** Custom Blur Glows, Stack & Column Layouts, Responsive Sizing
+
+---
+
+## 🚀 Quraşdırma və İşə Salma (Getting Started)
+
+Proqramı öz kompyuterinizdə və ya cihazınızda işə salmaq üçün aşağıdakı addımları izləyin:
+
+### Önşərtlər (Prerequisites)
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [VS Code](https://code.visualstudio.com/) və ya [Android Studio](https://developer.android.com/studio)
+
+### Quraşdırma Addımları
+
+1. Repozitoriyanı klonlayın:
+   ```bash
+   git clone [https://github.com/AskarovaAydan/first_task.git](https://github.com/AskarovaAydan/first_task.git)

@@ -25,7 +25,7 @@ Bu layihə **DevJoint** təcrübə proqramının ilk tapşırığı (**First Tas
 | :---: | :---: | :---: |
 | <img src="screenshots/onboarding.jpg" width="220"/> | <img src="screenshots/statistics.jpg" width="220"/> | <img src="screenshots/profile.jpg" width="220"/> |
 
-*(Qeyd: Ekran şəkillərini proyektin daxilindəki `screenshots/` qovluğuna yerləşdirərək bura əlavə edə bilərsiniz)*
+
 
 ---
 

@@ -21,9 +21,9 @@ Bu layihə **DevJoint** təcrübə proqramının ilk tapşırığı (**First Tas
 
 ## 📸 Ekran Görüntüləri (Screenshots)
 
-| Onboarding Screen | Statistics Screen | Profile Screen |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/onboarding.jpeg" width="220"/> | <img src="assets/screenshots/profile.jpeg" width="220"/> | <img src="assets/screenshots/editProfile.jpeg" width="220"/> | <img src="assets/screenshots/settings.jpeg" width="220"/> |
+| Onboarding | Profile | Edit Profile | Settings |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/onboarding.jpeg" width="200"/> | <img src="assets/screenshots/profile.jpeg" width="200"/> | <img src="assets/screenshots/editProfile.jpeg" width="200"/> | <img src="assets/screenshots/settings.jpeg" width="200"/> |
 
 
 

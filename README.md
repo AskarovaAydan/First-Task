@@ -65,4 +65,5 @@ flutter run
 
 Müəllif və Təşəkkür (Author & Credits)
 Developer: Aydan Əskərova
+
 Program: DevJoint Internship
